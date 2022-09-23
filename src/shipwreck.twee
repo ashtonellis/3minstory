@@ -1,0 +1,21 @@
+:: StoryData
+{
+    "ifid": "FB7FB628-0C1C-4484-9A12-9AC5B3C1CF89",
+    "format": "SugarCube",
+    "format-version": "2.36.1"
+}
+
+:: StoryTitle
+Shipwrecked
+
+:: Start
+You are looking at an enormous shipwrecked vessel on a deserted beach.
+
+Look at the [[port]] side of the ship.
+Look at the [[starboard]] side of the ship.
+
+::port
+You are looking at the left side of the ship.
+
+::starboard
+You are looking at the right side of the ship.
